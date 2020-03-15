@@ -49,8 +49,9 @@
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
 - **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp)
 - **Node.js**: [discord.js](https://github.com/discordjs/discord.js); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
-- **Clojure**: [discljord](https://github.com/igjoshua/discljord) 
-- **Crystal** [discordcr](https://github.com/meew0/discordcr)  
+- **TypeScript**: [typeit/discord](https://github.com/OwenCalvin/discord.ts)  
+- **Clojure**: [discljord](https://github.com/igjoshua/discljord)  
+- **Crystal**: [discordcr](https://github.com/meew0/discordcr)  
 - **Dart**: [nyxx](https://github.com/l7ssha/nyxx)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 - **Go**: [Discordgo](https://github.com/bwmarrin/discordgo); [DisGord](https://github.com/andersfylling/disgord)
@@ -111,6 +112,9 @@
 
 ## 💁‍ Community Resources
 **[Back To Top](#-contents)**
+
+### Custom Profiles - Extend your Discord profile with these services
+- [discord.bio](https://discord.bio)
 
 ### Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
 - [discord.me](https://discord.me)
